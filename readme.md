@@ -34,7 +34,9 @@ This summary describes the four changes to the school disctric analysis after th
 
 #### Point 4
 
+   -----
 
+### Opinion
 
 The high school stock analysis was conducted for two datasets.  One with the orignal data provided, and the second where the 9th grade data was replaced with Nan values.  
 
